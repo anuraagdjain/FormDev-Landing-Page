@@ -21,7 +21,8 @@
   "keywords": [],
   "name": "simple-landing-page",
   "author": "@anuraagdjain",
-  "description": null,
+  "homepage": "https://anuraagdjain.github.io/FormDev-Landing-Page",
+  "description": "",
   "version": "0.0.269",
   "scripts": {
     "start": "react-scripts start",
